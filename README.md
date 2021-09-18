@@ -1,0 +1,2 @@
+# vue3_webpack_dome
+最简单适应vue3的webpack配置
